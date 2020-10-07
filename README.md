@@ -1,4 +1,4 @@
-# todoFlutter
+# infinite words
 
 A new Flutter project.
 
